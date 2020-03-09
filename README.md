@@ -1,1 +1,1 @@
-# Taller1
+El juego se basa en dos fantasmas que buscan llegar a la luz y superar los obstáculos. Al inicio de la partida los dos jugadores tienen 3 "vidas", y a medida que va pasando la partida, aleatoriamente aparecerán enemigos que les quitarán vidas si chocan con los jugadores, pero éstos pueden esquivarlos moviéndose hacia los lados o disparándoles para eliminarlos. La partida termina cuando alguno de los jugadores pierde todas las vidas.
